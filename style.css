@@ -200,6 +200,8 @@ footer {
     color: crimson;
     text-align: center;
     padding-top: 2%;
+    margin-left: 5%;
+
 }
 
 #white {
@@ -235,4 +237,15 @@ footer {
 .text-align{
    
     text-align: center;
+}
+.button{
+    border: 0;
+font-weight: 700;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #FF5959;
+    color: white;
+}
+.amount{
+    color: red;
 }
