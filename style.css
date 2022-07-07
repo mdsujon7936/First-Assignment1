@@ -1,0 +1,238 @@
+body {
+
+    margin: auto;
+}
+
+p {
+    color: gray;
+}
+
+#big {
+    font-size: larger;
+    font-weight: 900;
+}
+
+#lorem-color {
+    color: white;
+    padding-bottom: 20px;
+}
+
+.btn-link {
+    text-decoration: none;
+    color: white;
+    width: 30px;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.more {
+    background-image: url(img/donation5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+}
+
+.my-updates {
+    text-align: center;
+    text-decoration: none;
+    width: 50%;
+    margin-left: 30%;
+    padding-top: 10%;
+    padding-bottom: 3%;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+
+}
+
+.color {
+    text-align: center;
+    padding-top: 150px;
+    color: white;
+
+
+}
+
+.donation-amount {
+    display: flex;
+    margin-left: 28%;
+    margin-right: 30%;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgba(245, 243, 242, 0.546);
+    padding: 2%;
+    border-radius: 5%;
+
+}
+
+.broder {
+    background-color: bisque;
+    border: solid red;
+    border-radius: 5%;
+}
+
+.conteinar {
+    display: flex;
+    padding-left: 20%;
+}
+
+.display img {
+    width: 50%;
+}
+
+.display {
+    width: 50%;
+}
+
+.donation-banner {
+    display: flex;
+}
+
+.banner {
+    width: 50%;
+}
+
+.banner-ima {
+    width: 20%;
+}
+
+
+/* Our Donate Plan */
+
+.line-box-1{
+    background-color: rgb(233, 244, 247);
+}
+.line-box-2{
+    background-color:#d2c3c3;
+}
+.line-box-3{
+    background-color:#efc9c9;
+}
+
+.line {
+    width: 100%;
+   margin-left: 20px;
+   margin-right: 20px;
+   
+    padding: 2%;
+    border-radius: 5px;
+ 
+}
+.line img{
+ padding-top: 40px;
+ 
+}
+
+.testing {
+    display: flex;
+
+}
+
+
+
+/* // Get My Updates */
+
+
+.input-box {
+    text-align: center;
+}
+
+.text {
+    padding-bottom: 20px;
+}
+
+
+.input-container {
+    background-color:rgb(253, 232, 195);
+    padding-top: 100px;
+    height: 150px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.heading {
+    margin-top: 80px;
+}
+
+.input {
+    border: 1px solid gray;
+    border-radius: 3px;
+    padding: 10px;
+
+
+
+}
+
+.input-sub {
+
+    padding: 10px;
+    border-radius: 3px;
+    width: 80px;
+    border: 0;
+    background-color:#FF5959;
+    color: white;
+    font-weight: bolder;
+
+}
+
+
+/* // fotter */
+
+footer {
+    background-color: black;
+}
+
+#Be-Humble {
+    color: crimson;
+    text-align: center;
+    padding-top: 2%;
+}
+
+#white {
+    color: white;
+    text-align: center;
+    padding-bottom: 2%;
+    margin-left: 5%;
+}
+
+/* donation-container */
+
+.section{
+    padding-top: 100px;
+}
+.donation-container{
+    display: flex;
+    
+}
+.img{
+    width: 480px;
+    height: 450px;
+    
+}
+.div--box{
+    padding-top: 50px;
+    width: 50%;
+    padding-left: 50px;
+}
+.div--box-2{
+    width: 50%;
+    padding-left: 50px;
+}
+.text-align{
+   
+    text-align: center;
+}
