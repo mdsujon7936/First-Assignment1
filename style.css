@@ -9,7 +9,7 @@ p {
 
 #big {
     font-size: larger;
-    font-weight: 900;
+   
 }
 
 #lorem-color {
@@ -114,10 +114,10 @@ p {
 /* Our Donate Plan */
 
 .line-box-1{
-    background-color: rgb(233, 244, 247);
+    background-color: rgb(224, 231, 234);
 }
 .line-box-2{
-    background-color:#d2c3c3;
+    background-color:#e5d9d9;
 }
 .line-box-3{
     background-color:#efc9c9;
